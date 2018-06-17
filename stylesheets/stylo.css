@@ -14,22 +14,19 @@ header h1 {
     font-family: 'Oswald', sans-serif;
     font-weight: 400px;
     font-size: 32px;
-    float: left;
-    margin-top: 0px;
     margin-right: 0px;
 }
-
 nav ul {
     display: inline;
     padding: 0px;
-    float: left;
+    
 }
 
 nav ul li {
     display: inline-block;
     list-style-type: none;
     color: white;
-    float: left;
+    
     margin-left: 12px;
 }
 
@@ -41,26 +38,17 @@ nav ul li a {
 #nav {
     font-family: ' montserrat', sans-serif;
 }
-
-.homered {
-    padding: 30px 10px 15px 10px;
-}
-
-.homeblack:hover {
-    background-color: blue;
-}
-
 .fw-images {
     background-image: url(../images/bottleShip.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
-    height: 800px;
+    height: 400px;
     background-attachment: fixed;
 }
 
-.padding-top-2x {
-    padding-top: 20px;
+.margin-top-7x {
+    margin-top: 90px;
 }
 
 .heading-padd {
